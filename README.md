@@ -1,4 +1,10 @@
+A simple React Redux practice project with Routing, State Prop mapping, Redux and action creators
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
+
+<img width="1325" alt="Screen Shot 2019-09-15 at 4 49 25 PM" src="https://user-images.githubusercontent.com/32042786/64927533-ffbd9380-d7d9-11e9-87b7-f83d8ae223e1.png">
 
 ## Available Scripts
 
